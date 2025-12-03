@@ -1,0 +1,6 @@
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/Main.java
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/config/OpenApiConfig.java
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/controller/RestExample.java
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/model/Persoa.java
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/repository/PersoaRepository.java
+/home/dam/AccesoDatos/PracticaSwaggerTutorAlumno/src/main/java/org/example/service/PersoaService.java

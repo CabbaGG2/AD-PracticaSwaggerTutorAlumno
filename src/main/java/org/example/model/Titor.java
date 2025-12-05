@@ -8,9 +8,12 @@ import java.util.List;
 @Table(name = "titor")
 public class Titor {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id_titor")
     private Long id;
+    @Column
     private String nome;
+    @Column
     private String apelidos;
     @OneToMany(mappedBy = "titor",//<-- indico onde está a clave foránea (en Alumno, propiedade de Titor)
             cascade = CascadeType.ALL,
